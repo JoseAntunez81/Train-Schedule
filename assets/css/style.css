@@ -1,0 +1,19 @@
+body{
+    background-image: url('../images/train.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron{
+    background-color: #563d8f;
+    color: aliceblue;
+    text-align: center;
+    text-decoration-style: dashed;
+}
+.card-header, .btn {
+    background-color: #563d8f;
+    
+}
+.card-body {
+    background-color: #575151;  
+}
